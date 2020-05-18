@@ -1,0 +1,15 @@
+﻿LARAVEL-TRAINING2-project_Laravel
+
+0. THÔNG TIN
+- Website bán hàng
+- Xuất bản: 05-06-2016
+- https://www.youtube.com/watch?v=Wot_LejXZLk&list=PLqEKeWbzk0aTloUonoi7J_D6QslCc9VXv&index=57
+- Laravel version 5.6
+
+1. DANH SÁCH BÀI HỌC
+56-114:
+
+1. Dựng Project
+	- Sử dụng Laravel Version 5.6
+	- Copy 2 file index.php và .htaccess trong folder public ra ngoài
+
